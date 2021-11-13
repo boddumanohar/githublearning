@@ -1,0 +1,12 @@
+this is a sample content
+
+One of the first things I learned about in Go was using an uppercase or lowercase letter as the first letter when nami
+
+asdng a type and variable or function. It was explained that when the first letter was capitalized,
+ the identifier was public to any piece of code that wanted to use it. When the first letter was lowercase the identifier was private, and could only, be accessed within the package it was declared.
+
+
+1. to easily review the code
+2. to easily maintain version in code
+
+commit --> version
