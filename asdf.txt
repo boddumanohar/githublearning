@@ -1,4 +1,4 @@
-this is a sample content
+this is a sample contents
 
 One of the first things I learned about in Go was using an uppercase or lowercase letter as the first letter when name
 
