@@ -9,4 +9,4 @@ and a type, variable or function. It was explained that when the first letter wa
 1. to easily review the code
 2. to easily maintain version in code
 
-commit --> version
+commit : version
